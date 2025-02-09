@@ -48,7 +48,9 @@ Esse é repositório mostra mais sobre minhas habildades e especificades
 <img src="https://raw.githubusercontent.com/guilhermesantosi/guilhermesantosi/output/snake.svg" alt="Snake animation" />
 
 **Avisos**
+
 tenham mais informaçães entrado no site abaixo:
-<a href="https://guilhermesantosi.github.io/profile/"></a>
+
+<a href="https://guilhermesantosi.github.io/profile/">Profile</a>
 
 ###
