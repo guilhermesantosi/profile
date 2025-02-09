@@ -51,6 +51,6 @@ Esse é repositório mostra mais sobre minhas habildades e especificades
 
 tenham mais informaçães entrado no site abaixo:
 
-<a href="https://guilhermesantosi.github.io/profile/">Profile</a>
+<a href="https://guilhermesantosi.github.io/profile/" target="bleck">Profile</a>
 
 ###
