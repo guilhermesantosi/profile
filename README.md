@@ -1,7 +1,7 @@
 # profile
 Esse é repositório mostra mais sobre minhas habildades e especificades
 <h2 align="left">English: Hi 👋! My name is joão guilherme and I'm a front End from Brazil</h2>
-<h2 align="left">Portugues: Olá 👋! Meu nome é João guilherme and e eu um front End from Brasil</h2>
+<h2 align="left">Portugues: Olá 👋! Meu nome é João guilherme e eu sou um front End do Brasil</h2>
 
 💻 Atualmente, estou trabalhando em projetos para melhorar minhas habilidades e criar aplicações incríveis!  
 
